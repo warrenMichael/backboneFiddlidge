@@ -1,0 +1,29 @@
+
+html {
+  background: #000;
+}
+
+body {
+  margin: auto;
+  width: 90%;
+  background: #fff;
+}
+
+.container {
+  padding: 2%;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.tweets .thumbnail {
+  float: left;
+}
+
+.status-copy {
+  float: left;
+  margin-left: 2%;
+  width: 80%;
+}
